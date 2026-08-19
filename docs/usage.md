@@ -15,3 +15,4 @@ Notes and usage details for loom.
 - link the usage section
 - fix a small wording issue
 - fix a small wording issue
+- clarify the setup steps
